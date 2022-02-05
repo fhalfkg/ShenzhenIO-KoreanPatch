@@ -1,0 +1,2 @@
+﻿* *active*와 *network*는 LED를 연결하는 단순 입력.
+* 검증 탭의 표시에 따라, *active*와 *network*로 통하는 출력 신호를 제어하기.
