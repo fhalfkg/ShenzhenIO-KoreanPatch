@@ -18,6 +18,6 @@ SHENZHEN I/O 한국어 패치입니다.<br>
 
 <h2>개발자</h2>
 
-본 패치는 [일본어 패치](https://github.com/birdManIkioiShota/SHENZHEN_IO_JP)를 기반으로 만들어졌기 때문에 사전에 개발자인 Zachtronics에게 한국어 폰트 추가에 대한 문의를 진행했고, 한국어 폰트가 추가되어 패치를 만들 수 있게 되었습니다. 빠른 패치에 감사드립니다.<br>
+본 패치는 [일본어 패치](https://github.com/birdManIkioiShota/SHENZHEN_IO_JP)를 기반으로 만들어졌기 때문에 사전에 개발자인 Zachtronics에게 한국어 폰트 추가에 대한 문의를 진행(현재 메일이 삭제되어 내용 공개는 불가)했고, 한국어 폰트가 추가되어 패치를 만들 수 있게 되었습니다. 빠른 패치에 감사드립니다.<br>
 
 이 패치는 권리권자의 태도 및 법률의 변화로 예고 없이 변경 또는 삭제될 수 있습니다.
